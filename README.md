@@ -1,4 +1,4 @@
-# typescript
+# Typescript
  
 ####   GoStack Bootcamp 11
 
